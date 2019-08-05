@@ -4,6 +4,8 @@ Status: Currently finetuning based on feedback.
 
 A recommendation system using the Book-Crossing dataset. Utilizes the Surprise package for model-based matrix factorization in Python.
 
+If there are any issues with loading the Jupyter notebooks on GitHub, please load though https://nbviewer.jupyter.org/.
+
 ### Contents
 - `Petersen_Joseph_Capstone_2_Final_Report.pdf` contains the cumulative report that would be given to the client.
 - `Petersen_Joseph_Capstone_2 Milestone_1.pdf` contains the milestone progress report that would be given to the client.
